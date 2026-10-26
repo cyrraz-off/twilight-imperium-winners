@@ -6,4 +6,4 @@
 | CP     | Mahact Gene-Sorcerers | 18.10.2025 | 5                 | AF, CP, EM, LR, VP            | 0228        |
 | HD     | Last Bastion          | 01.03.2026 | 6                 | AS, AF, CP+VP, HD, HP, LR     | 0358        |
 | HP     | Emirates of Hacan     | 28.06.2026 | 6                 | BM, CB, CP, HP, LB, RB+SF     | 0355        |
-|        |                       | 31.11.2026 | 7                 | AF, CP+VP, EM, HD, JC, LR, RD | 0366        |
+|        |                       | 31.11.2026 | 7                 | AF, CP+VP, EM, FD, HD, JC, LR | 0366        |
